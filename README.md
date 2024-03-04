@@ -1,9 +1,9 @@
 # CounterfacTS
 Tool for Probing the Robustness of Time-series Forecasting Models
 
-#
 
-# Running the application
+
+## Running the application
 
 To run the application start by installing and activating the environment:
 
