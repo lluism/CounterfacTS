@@ -23,5 +23,6 @@ As a concrete example, this command will run the application using a simple dens
 ```shell
 bokeh serve src/ --args experiments/electricity_nips/feedforward/config.yaml
 ```
+Finally, copy the http address that appears in the terminal and paste it in the browser to open the interactive GUI.
 
 
