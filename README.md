@@ -1,5 +1,5 @@
 # CounterfacTS
-Tool for Probing the Robustness of Time-series Forecasting Models
+Tool for Probing the Robustness of Deep Learning Time-series Forecasting Models
 
 
 
