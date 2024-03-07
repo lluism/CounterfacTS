@@ -1,11 +1,14 @@
 # CounterfacTS
 Tool for Probing the Robustness of Deep Learning Time-series Forecasting Models
 
+This is the code from our paper [Kjærnli et al. 2024: Probing the Robustness of Time-series Forecasting Models with CounterfacTS](https://arxiv.org/abs/2403.03508)
+
+
 
 
 ## Running the application
 
-To run the application start by installing and activating the environment:
+To run the application start by installing and activating the environment after cloning the repository in your machine:
 
 ```shell
 conda env create -f env.yaml
